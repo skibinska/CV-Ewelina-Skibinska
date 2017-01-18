@@ -21,7 +21,9 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 I worked with a front-end lead developer to develop Big Bus Tour website - a fully responsive, multi language, multi currency website on Magento 2.    
 
 The following technologies I used:
-  * HTML5, Sass, Bootstrap
+  * HTML5
+  * Sass
+  * Bootstrap
   * JQuery
 
 ### [Contact list](http://contacts.skibinska.co.uk/contacts)
