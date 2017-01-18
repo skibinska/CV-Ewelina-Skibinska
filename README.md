@@ -50,3 +50,7 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
  * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
  * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
+
+## Contact
+
+skibinska.ewelina@gmail.com| [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
