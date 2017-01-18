@@ -26,7 +26,7 @@ The following technologies I used:
 
 ### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
-Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS. 
+Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.
 
 The following technologies were used:
   * AngularJS 1.5.*
@@ -39,22 +39,17 @@ The following technologies were used:
  <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
 
-#### 16-Week Intensive Web Development Course
+### Student & Mentor
 *Oct. 2016 to Present*
 
-* HTML5, CSS, UX/UI, responsive design
-* GitHub and Git flow
-* Test driven development (QUnit and Jasmine on the front-end and Tape on the back-end)
-* Web APIs
-* Writing servers using Node.js and Hapi.js
-* Authentication and session management
-* SQL databases using PostgreSQL
-* Agile development (project-based weeks with design sprints, retrospective)
-* Pair programming and code reviewing
+#### 16-Week Intensive Web Development Course
+
+* As well as learning the skills outlined, I learned test driven development, agile methodologies and pair programming.
+* I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring at meetups - Coding for Everyone, Coding for Women.  
 
  ![Born Group Logo](experience/born-group-logo.png)
 
-#### Junior Front-end Web Developer
+### Junior Front-end Web Developer
 *Aug. 2016 - Oct. 2016*
 
 * I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website
