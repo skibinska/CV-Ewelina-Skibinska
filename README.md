@@ -1,6 +1,6 @@
 # CV - Ewelina Skibinska
 
-I am a front-end developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+I am a front-end web developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ## Skills
 
