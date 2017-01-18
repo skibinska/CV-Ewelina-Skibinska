@@ -4,11 +4,11 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## SKILLS
 
-| Languages              | Frameworks        |Libraries         | Databases     | Testing       | Tools                     |
+| Languages              | Frameworks        | Libraries        | Databases     | Testing       | Tools                     |
 |:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-------------------------:|
-| JavaScript             | Bootstrap         | Hapi.js          | PostgreSQL    | Tape          | Git / Github / SourceTree |
-| Node.js                | AngularJS 1.5.*   | JQuery           |               | QUnit         | Atom / Intellij Idea      |
-| HTML5                  |                   |                  |               | Jasmine       | npm / bower               |
+| JavaScript             | Bootstrap         |  JQuery          | PostgreSQL    | Tape          | Git / Github / SourceTree |
+| Node.js                | AngularJS 1.5.*   |                  |               | QUnit         | Atom / Intellij Idea      |
+| HTML5                  | Hapi.js           |                  |               | Jasmine       | npm / bower               |
 | CSS3                   |                   |                  |               | Karma         | Travis CI                 |
 | Sass                   |                   |                  |               | Protractor    | Codecov / Code climate    |
 | Markdown               |                   |                  |               | Nightwatch.js | Istanbul                  |
