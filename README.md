@@ -11,8 +11,9 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 | HTML5                  |                   |                  |               | Jasmine       | npm / bower               |
 | CSS3                   |                   |                  |               | Karma         | Travis CI                 |
 | Sass                   |                   |                  |               | Protractor    | Codecov / Code climate    |
-| Markdown               |                   |                  |               | Nightwatch.js | JIRA                      |
-|                        |                   |                  |               | Istanbul      | Ubuntu OS                 |
+| Markdown               |                   |                  |               | Nightwatch.js | Istanbul                  |
+|                        |                   |                  |               |               | JIRA                      |
+|                        |                   |                  |               |               | Ubuntu OS                 |
 
 ## PROJECTS
 
