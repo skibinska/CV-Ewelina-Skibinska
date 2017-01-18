@@ -4,17 +4,39 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## Skills
 
-| Languages              | Frameworks        |Libraries         | Databases     | Testing       | Tools                   |
-|:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-----------------------:|
-| JavaScript             | Bootstrap         | Hapi.js          | PostgreSQL    | Tape          | Git/Github/SourceTree   |
-| Node.js                | AngularJS 1.5.*   | JQuery           |               | QUnit         | Atom/Intellij Idea      |
-| HTML5                  |                   |                  |               | Jasmine       | npm/bower               |
-| CSS3                   |                   |                  |               | Karma         | Travis CI               |
-| Sass                   |                   |                  |               | Protractor    | Codecov/Code climate    |
-|                        |                   |                  |               | Nightwatch.js | JIRA                    |
-|                        |                   |                  |               |               | Linux                   |
+| Languages              | Frameworks        |Libraries         | Databases     | Testing       | Tools                     |
+|:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-------------------------:|
+| JavaScript             | Bootstrap         | Hapi.js          | PostgreSQL    | Tape          | Git / Github / SourceTree |
+| Node.js                | AngularJS 1.5.*   | JQuery           |               | QUnit         | Atom / Intellij Idea      |
+| HTML5                  |                   |                  |               | Jasmine       | npm / bower               |
+| CSS3                   |                   |                  |               | Karma         | Travis CI                 |
+| Sass                   |                   |                  |               | Protractor    | Codecov / Code climate    |
+| Markdown               |                   |                  |               | Nightwatch.js | JIRA                      |
+|                        |                   |                  |               |               | Ubuntu OS                 |
 
 ---
+
+## Projects
+
+* [Big Bus Tour](https://www.bigbustours.com/)
+
+Big Bus Tour website. I worked closely with a front-end lead developer during my internship at BORN Group.  
+I used:
+  * HTML5, Sass, Bootstrap
+  * SourceTree
+  * JQuery
+  * Magento
+  * JIRA
+  * Agile development (daily stand-up)
+
+* [Contact list](http://contacts.skibinska.co.uk/contacts)
+
+Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.  
+The following technologies were used:
+  * AngularJS 1.5.*
+  * Bootstrap 3.*
+  * jsonplaceholder public API
+  * Protractor
 
 ## Experience
 
@@ -39,12 +61,7 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 #### Junior Front-end Web Developer
 ##### August 2016 - October 2016
 
-* HTML5, Sass, Bootstrap
-* SourceTree
-* JQuery
-* Magento
-* JIRA
-* Agile development (daily stand-up)
+
 
 ## Education
 
@@ -53,4 +70,4 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## Contact
 
-skibinska.ewelina@gmail.com| [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
+skibinska.ewelina@gmail.com | [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
