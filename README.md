@@ -26,7 +26,9 @@ The following technologies I used:
   * Bootstrap
   * JQuery
 
-### [Contact list](http://contacts.skibinska.co.uk/contacts)
+### Contact list
+
+[Website](http://contacts.skibinska.co.uk/contacts) | [GitHub](https://github.com/skibinska/contacts)
 
 Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.
 
@@ -63,6 +65,6 @@ The following technologies were used:
 ## EDUCATION  
  * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
  * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
- 
+
 ## CONTACT  
 skibinska.ewelina@gmail.com | [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
