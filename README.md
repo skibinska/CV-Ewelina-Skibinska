@@ -1,6 +1,6 @@
 # CV - Ewelina Skibinska
 
-I am a front-end web developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
+I am a front-end developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
 ## Skills
 
@@ -17,7 +17,6 @@ I am a front-end web developer looking for work in London, UK. I am currently st
 ---
 
 ## Experience
-
 
 <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
@@ -43,5 +42,23 @@ I am a front-end web developer looking for work in London, UK. I am currently st
 * HTML5, Sass, Bootstrap
 * SourceTree
 * JQuery
+* Magento
 * JIRA
 * Agile development (daily stand-up)
+
+## Education
+
+### Founders & Coders
+#### October 2016 - Present
+
+* JavaScript Bootcamp
+
+### University of Rzeszow
+
+#### 2010 - 2012
+
+* Master’s degree - Economics, Regional and Local Economy
+
+#### 2007 - 2010
+
+* Bachelor’s degree - European Studies
