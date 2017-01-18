@@ -20,14 +20,14 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 * [Big Bus Tour](https://www.bigbustours.com/)
 
-Big Bus Tour website. I worked closely with a front-end lead developer during my internship at BORN Group.  
-I used:
+Big Bus Tour website.    
+The following technologies were used:
   * HTML5, Sass, Bootstrap
-  * SourceTree
   * JQuery
+  * SourceTree
   * Magento
   * JIRA
-  * Agile development (daily stand-up)
+
 
 * [Contact list](http://contacts.skibinska.co.uk/contacts)
 
@@ -61,6 +61,9 @@ The following technologies were used:
 #### Junior Front-end Web Developer
 ##### August 2016 - October 2016
 
+* I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website
+* I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript
+* I participated in daily stand-up
 
 
 ## Education
