@@ -2,7 +2,7 @@
 
 I am a front-end developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
-###SKILLS
+## SKILLS
 
 | Languages              | Frameworks        |Libraries         | Databases     | Testing       | Tools                     |
 |:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-------------------------:|
@@ -14,8 +14,7 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 | Markdown               |                   |                  |               | Nightwatch.js | JIRA                      |
 |                        |                   |                  |               | Istanbul      | Ubuntu OS                 |
 
----
-###PROJECTS
+## PROJECTS
 
 ### [Big Bus Tours](https://www.bigbustours.com/)
 
@@ -37,8 +36,7 @@ The following technologies were used:
   * jsonplaceholder public API
   * Protractor
 
----
-###EXPERIENCE
+## EXPERIENCE
 
  <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
@@ -62,13 +60,9 @@ The following technologies were used:
 * I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript.
 * I participated in daily stand-up.
 
----
-###EDUCATION
-
+## EDUCATION  
  * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
  * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
-
----
-###CONTACT
-
+ 
+## CONTACT  
 skibinska.ewelina@gmail.com | [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
