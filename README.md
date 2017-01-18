@@ -18,7 +18,7 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ### [Big Bus Tours](https://www.bigbustours.com/)
 
-I worked with a front-end lead developer to develop Big Bus Tour website - a fully responsive, multi language, multi currency website on Magento 2.    
+I worked with a front-end lead developer to develop Big Bus Tours website - a fully responsive, multi language, multi currency website on Magento 2.    
 
 The following technologies I used:
   * HTML5
