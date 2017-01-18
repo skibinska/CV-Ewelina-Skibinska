@@ -48,17 +48,5 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## Education
 
-### Founders & Coders
-#### October 2016 - Present
-
-* JavaScript Bootcamp
-
-### University of Rzeszow
-
-#### 2010 - 2012
-
-* Master’s degree - Economics, Regional and Local Economy
-
-#### 2007 - 2010
-
-* Bachelor’s degree - European Studies
+ * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
+ * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
