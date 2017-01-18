@@ -2,7 +2,7 @@
 
 I am a front-end developer looking for work in London, UK. I am currently studying at [Founders & Coders](http://www.foundersandcoders.com/), a highly-selective sixteen week coding bootcamp. I am a passionate learner and problem solver, eager to explore new languages and frameworks and learn with like-minded individuals.
 
-## Skills
+## SKILLS
 
 | Languages              | Frameworks        |Libraries         | Databases     | Testing       | Tools                     |
 |:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-------------------------:|
@@ -16,7 +16,7 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ---
 
-## Projects
+## PROJECTS
 
 * [Big Bus Tours](https://www.bigbustours.com/)
 
@@ -38,9 +38,9 @@ The following technologies were used:
   * jsonplaceholder public API
   * Protractor
 
-## Experience
+## EXPERIENCE
 
-<img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
+### <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
 
 #### 16-Week Intensive Web Development Course
@@ -56,7 +56,7 @@ The following technologies were used:
 * Agile development (project-based weeks with design sprints, retrospective)
 * Pair programming and code reviewing
 
-![Born Group Logo](experience/born-group-logo.png)
+### ![Born Group Logo](experience/born-group-logo.png)
 
 #### Junior Front-end Web Developer
 ##### August 2016 - October 2016
@@ -66,11 +66,11 @@ The following technologies were used:
 * I participated in daily stand-up
 
 
-## Education
+## EDUCATION
 
  * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
  * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
 
-## Contact
+## CONTACT
 
 skibinska.ewelina@gmail.com | [GitHub](https://github.com/skibinska) | [LinkedIn](https://www.linkedin.com/in/ewelina-skibinska-02717570)
