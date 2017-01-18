@@ -18,9 +18,9 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## Projects
 
-* [Big Bus Tour](https://www.bigbustours.com/)
+* [Big Bus Tours](https://www.bigbustours.com/)
 
-Big Bus Tour website. I worked closely with a front-end lead developer during my internship at BORN Group.  
+Big Bus Tours website. I worked closely with a front-end lead developer during my internship at BORN Group.  
 I used:
   * HTML5, Sass, Bootstrap
   * SourceTree
