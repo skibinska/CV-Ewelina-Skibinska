@@ -18,18 +18,15 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 
 ## PROJECTS
 
-* [Big Bus Tours](https://www.bigbustours.com/)
+### [Big Bus Tours](https://www.bigbustours.com/)
 
 Big Bus Tour website.    
 The following technologies were used:
   * HTML5, Sass, Bootstrap
   * JQuery
-  * SourceTree
   * Magento
-  * JIRA
 
-
-* [Contact list](http://contacts.skibinska.co.uk/contacts)
+### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
 Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.  
 The following technologies were used:
@@ -40,7 +37,7 @@ The following technologies were used:
 
 ## EXPERIENCE
 
-### <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
+ <img src="https://github.com/skibinska/CV-Ewelina-Skibinska/blob/master/experience/fac.png" width="240">
 
 
 #### 16-Week Intensive Web Development Course
@@ -56,7 +53,7 @@ The following technologies were used:
 * Agile development (project-based weeks with design sprints, retrospective)
 * Pair programming and code reviewing
 
-### ![Born Group Logo](experience/born-group-logo.png)
+ ![Born Group Logo](experience/born-group-logo.png)
 
 #### Junior Front-end Web Developer
 ##### August 2016 - October 2016
@@ -64,7 +61,6 @@ The following technologies were used:
 * I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website
 * I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript
 * I participated in daily stand-up
-
 
 ## EDUCATION
 
