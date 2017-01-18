@@ -54,9 +54,9 @@ The following technologies were used:
 ### Junior Front-end Web Developer
 *Aug. 2016 - Oct. 2016*
 
-* I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website
-* I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript
-* I participated in daily stand-up
+* I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website.
+* I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript.
+* I participated in daily stand-up.
 
 ## EDUCATION
 
