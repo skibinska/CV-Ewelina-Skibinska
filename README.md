@@ -26,9 +26,9 @@ The following technologies I used:
   * Bootstrap
   * JQuery
 
-### Contact list
+### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
-[Website](http://contacts.skibinska.co.uk/contacts) | [GitHub](https://github.com/skibinska/contacts)
+[GitHub](https://github.com/skibinska/contacts)
 
 Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.
 
