@@ -14,17 +14,15 @@ I am a front-end developer looking for work in London, UK. I am currently studyi
 | Markdown               |                   |                  |               | Nightwatch.js | JIRA                      |
 |                        |                   |                  |               |               | Ubuntu OS                 |
 
----
-
 ## PROJECTS
 
 ### [Big Bus Tours](https://www.bigbustours.com/)
 
-Big Bus Tour website.    
-The following technologies were used:
+I worked with a front-end lead developer to develop Big Bus Tour website - a fully responsive, multi language, multi currency website on Magento 2.    
+
+The following technologies I used:
   * HTML5, Sass, Bootstrap
   * JQuery
-  * Magento
 
 ### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
@@ -41,7 +39,7 @@ The following technologies were used:
 
 
 #### 16-Week Intensive Web Development Course
-##### October 2016 to Present
+*Oct. 2016 to Present*
 
 * HTML5, CSS, UX/UI, responsive design
 * GitHub and Git flow
@@ -56,7 +54,7 @@ The following technologies were used:
  ![Born Group Logo](experience/born-group-logo.png)
 
 #### Junior Front-end Web Developer
-##### August 2016 - October 2016
+*Aug. 2016 - Oct. 2016*
 
 * I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website
 * I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript
