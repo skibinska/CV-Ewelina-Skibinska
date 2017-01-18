@@ -26,7 +26,8 @@ The following technologies I used:
 
 ### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
-Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS.  
+Simple CRUD contact list (side project). Main reason to build this project was to play with AngularJS. 
+
 The following technologies were used:
   * AngularJS 1.5.*
   * Bootstrap 3.*
