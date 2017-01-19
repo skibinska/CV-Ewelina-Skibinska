@@ -10,7 +10,7 @@ I am a front-end developer looking for work in London. I have recently graduated
 | Node.js                | AngularJS 1.5.*   |                  |               | QUnit         | Atom / Intellij Idea      |
 | HTML5                  | Hapi.js           |                  |               | Jasmine       | npm / bower               |
 | CSS3                   |                   |                  |               | Karma         | Travis CI                 |
-| Sass                   |                   |                  |               | Protractor    | Codecov / Code climate    |
+| Sass                   |                   |                  |               | Protractor    | Codecov / Code Climate    |
 | Markdown               |                   |                  |               | Nightwatch.js | Istanbul                  |
 |                        |                   |                  |               |               | JIRA                      |
 |                        |                   |                  |               |               | Ubuntu OS                 |
