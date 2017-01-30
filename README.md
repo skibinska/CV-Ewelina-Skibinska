@@ -7,7 +7,7 @@ I am a front-end developer looking for work in London. I have recently graduated
 | Languages              | Frameworks        | Libraries        | Databases     | Testing       | Tools                     |
 |:----------------------:|:-----------------:|:----------------:|:-------------:|:-------------:|:-------------------------:|
 | JavaScript             | Bootstrap         |  JQuery          | PostgreSQL    | Tape          | Git / Github / SourceTree |
-| Node.js                | AngularJS 1.5.*   |                  |               | QUnit         | Atom / Intellij Idea      |
+| Node.js                | AngularJS 1.5.*   |                  |               | QUnit         | Atom / IntelliJ IDEA IDE  |
 | HTML5                  | Hapi.js           |                  |               | Jasmine       | npm / bower               |
 | CSS3                   |                   |                  |               | Karma         | Travis CI                 |
 | Sass                   |                   |                  |               | Protractor    | Codecov / Code Climate    |
