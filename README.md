@@ -45,7 +45,7 @@ I used the following technologies:
 
 
 ### Student & Mentor
-*Oct. 2016 to Present*
+*Oct. 2016 - Feb. 2017*
 
 #### 16-Week Intensive Web Development Course
 
