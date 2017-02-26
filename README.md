@@ -19,6 +19,8 @@ I am a front-end developer looking for work in London. I have recently graduated
 
 ### [Portfolio](http://ewelina.skibinska.co.uk/)
 
+[GitHub](https://github.com/skibinska/personal-website)
+
 I designed and developed a minimal, responsive portfolio.    
 
 I used the following technologies:
