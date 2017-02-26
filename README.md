@@ -50,7 +50,7 @@ I used the following technologies:
 #### 16-Week Intensive Web Development Course
 
 * As well as learning the skills outlined, I learnt test driven development, agile methodologies and pair programming.
-* I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring at meetups - Coding for Everyone, Coding for Women.  
+* I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring at _Coding for Everyone_ and _Coding for Women_ meetups. 
 
 ===
 
@@ -61,6 +61,7 @@ I used the following technologies:
 
 * I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website.
 * I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript.
+* I updated HTML templates on Magento 2.
 * I participated in the daily stand-up.
 
 ## EDUCATION  
