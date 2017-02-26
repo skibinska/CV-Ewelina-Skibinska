@@ -17,6 +17,17 @@ I am a front-end developer looking for work in London. I have recently graduated
 
 ## PROJECTS
 
+### [Portfolio](http://ewelina.skibinska.co.uk/)
+
+I designed and developed a minimal, responsive portfolio.    
+
+I used the following technologies:
+  * HTML5
+  * Sass
+  * JavaScript
+  * Hapi
+  * Nightwatch
+
 ### [Big Bus Tours](https://www.bigbustours.com/)
 
 I worked with a front-end lead developer to develop Big Bus Tours' website - a fully responsive, multi-language, multi-currency website on Magento 2.    
