@@ -74,8 +74,10 @@ I used the following technologies:
 
 * I worked with a front-end lead developer, the UX team and designers to develop consumer-driven, user integrated e-commerce website.
 * I wrote neat, semantic, concise, indented and thoroughly commented code for HTML, CSS and JavaScript.
+* I refactored code base.
 * I updated HTML templates on Magento 2.
-* I participated in the daily stand-up.
+* I worked from supplied psds.
+* I worked using agile methodologies.
 
 ## EDUCATION  
  * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
