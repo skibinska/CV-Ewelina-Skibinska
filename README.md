@@ -38,7 +38,7 @@ I used the following technologies:
   * HTML5
   * Sass
   * Bootstrap
-  * JQuery
+  * jQuery
 
 ### [Contact list](http://contacts.skibinska.co.uk/contacts)
 
