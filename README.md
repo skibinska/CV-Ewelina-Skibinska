@@ -80,7 +80,7 @@ I used the following technologies:
 * I worked using agile methodologies.
 
 ## EDUCATION  
- * Master’s degree - Economics, Regional and Local Economy (2010 - 2012) - University of Rzeszow
+ * Master’s degree - Economics (2010 - 2012) - University of Rzeszow
  * Bachelor’s degree - European Studies (2007 - 2010) - University of Rzeszow
 
 ## CONTACT  
