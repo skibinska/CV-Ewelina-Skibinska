@@ -44,7 +44,7 @@ I used the following technologies:
 
 [GitHub](https://github.com/skibinska/contacts)
 
-Simple CRUD contact list (side project). The main reason to build this project was to play with AngularJS.
+Simple CRUD contact list (side project). The main reason to build this project was to gain experience using AngularJS and learn end-to-end testing.
 
 I used the following technologies:
   * AngularJS 1.5.*
